@@ -1,0 +1,8 @@
+{
+  "name": "LuxeLiving Furniture",
+  "description": "A premium, production-ready furniture store featuring modern UI, category-based navigation, custom ordering, and seamless WhatsApp integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
